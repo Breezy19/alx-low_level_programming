@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 
-/* 
- * main : 0-positive_or_negative
- * Return : Always 0.
- */
+/**
+ * main - 0-positive_or_negative
+ * Return: Always 0.
+*/
 int main(void)
 {
 	int n;
