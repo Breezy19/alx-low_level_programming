@@ -3,7 +3,6 @@
 
 /**
  * main - prints all arguments it receives.
- *
  * @argc: The number of arguments.
  * @argv: The array of arguments.
  *
