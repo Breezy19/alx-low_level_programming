@@ -1,5 +1,4 @@
 #include "search_algos.h"
-#include <stdio.h>
 
 /**
  * linear_search - Sequentially search an array for a value.
